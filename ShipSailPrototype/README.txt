@@ -1,0 +1,1 @@
+Version of Unity used on those projects at the time, was 5.6.1f1 or so. Just in case updating archive hell happens when transitioning to versions 2017 and beyond. And especially 2018, as a jnc note.
